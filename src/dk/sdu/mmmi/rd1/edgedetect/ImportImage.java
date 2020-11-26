@@ -6,8 +6,12 @@ import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 import java.io.*;
 import javax.imageio.ImageIO;
-
-
+//ReadME
+//Change the Image path in line 90 to be resized (check the extention)
+// IN line 101 save the resized image in a path you choose (lets call it "Path1")
+// Set "Path1" in line 115 to be procssed through Edgedetecor class ( I know it is lame and i will change it soon)
+//in line 133 check The IP adress And the port number to be matched with you server.
+//you are done!
 
 public class ImportImage
 {
